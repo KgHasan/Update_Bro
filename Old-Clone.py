@@ -399,17 +399,17 @@ logo = ("""\033[1;32m
 ░  ░░ ░  ░   ▒   ░  ░  ░    ░   ▒      ░   ░ ░ 
 ░  ░  ░      ░  ░      ░        ░  ░         ░    \033
 __________________×______________________
-✓✓NEW UPDATE BRO ✓✓
+      ✓✓NEW UPDATE BRO ✓✓
   
-  Owner   :  HASAN_VAU
+       Owner   :  HASAN_VAU
  
-  Github   :  KgHasan
+       Github   :  KgHasan
 
-  Facebook : HASA N
+       Facebook : HASA N
   
-  Youtube : Error ⚠️
+       Youtube : Error ⚠️
   
-  Contact : Error ⚠️
+       Contact : Error ⚠️
 __________________×______________________\033[1;37m""")
 
 class Main:
